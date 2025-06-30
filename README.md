@@ -1,7 +1,9 @@
 <h1 align="center">Hola amigo, I am Fatin Syahirah 😗</h1>
 <h3 align="center">An enthusiastic learner in computers science and electronics.</h3>
 
-![Cat GIF](https://sarahjadephotography.wordpress.com/wp-content/uploads/2019/03/giphy.gif)
+<p align="center">
+  <img src="https://sarahjadephotography.wordpress.com/wp-content/uploads/2019/03/giphy.gif" alt="Cat GIF" width="500"/>
+</p>
 
 <p align="left"> <a href="https://twitter.com/fasyirah01" target="blank"><img src="https://img.shields.io/twitter/follow/fasyirah01?logo=twitter&style=for-the-badge" alt="fasyirah01" /></a> </p>
 
